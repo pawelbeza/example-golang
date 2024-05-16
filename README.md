@@ -53,6 +53,8 @@ Alternatively, you can manually create the application as described below.
 
 On the [Koyeb Control Panel](//app.koyeb.com/apps), on the **Overview** tab, click the **Create Web Service** button to begin.
 
+This change shouldn't trigger deployment
+
 1. Select **GitHub** as the deployment method.
 2. In the repositories list, select the repository you just forked.
 3. In the **Builder** section, click the **override** toggle associated with the **Run command** and enter `bin/example-golang` in the field.
