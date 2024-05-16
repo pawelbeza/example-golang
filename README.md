@@ -24,6 +24,8 @@ This repository contains a Golang application you can deploy on the Koyeb server
 
 This example application is designed to show how a Golang application can be deployed on Koyeb.
 
+This should not trigger deployment on Koyeb
+
 ## Getting Started
 
 Follow the steps below to deploy and run the Golang application on your Koyeb account.
